@@ -5,4 +5,4 @@ var height = 74;
 
 console.log("Name: ", name)
 
-console.log("Height: ", height)
+console.log("Height: ", height+1)
